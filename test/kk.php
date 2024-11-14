@@ -1,5 +1,6 @@
 <?php
 
-echo "kk";
+echo "ohyao";
+$a = ["aA", "bW"];
 
 ?>
